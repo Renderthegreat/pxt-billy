@@ -24,8 +24,8 @@
 #ifndef BILLY_H
 #define BILLY_H
 
-#include "MicroBit.h"
-#include "MicroBitConfig.h"
+// #include "MicroBit.h"
+// #include "MicroBitConfig.h"
 #include "MemorySource.h"
 #include "sam/render.h"
 #include "sam/sam.h"
